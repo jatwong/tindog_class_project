@@ -9,3 +9,7 @@ Images and icons provided by Angela Yu.
 
 - HTML
 - CSS + Bootstrap
+
+## Screenshot
+
+![Screenshot of TinDog project website hero](./images/tinDogThmb.png)
