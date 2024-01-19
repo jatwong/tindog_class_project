@@ -12,7 +12,7 @@ Visit [TinDog Website](https://jatwong.github.io/tindog_project/)
 - HTML
 - CSS + Bootstrap
 
-## Screenshot
+## Screenshots
 
 ### Hero
 ![Screenshot of TinDog project website hero](./images/tinDogThmb.png)
